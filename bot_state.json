@@ -1,0 +1,1478 @@
+{
+  "2100579923050094592": {
+    "session_id": "rl8BAkdDTQABqbDxiDh3bI0nIfIdlP/exApNvaav6kxOZuxYXA6qYyWpGw96Dizj8KdQOPJnVZw=",
+    "first_seen": "2026-09-17T21:01:34.462694",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100581634219675648": {
+    "session_id": "rl8BAkdDTQC0WdiyYapGYVisahyVm8OQ6OLmlZZ6GjP00i4NUlXpquKNBKPxfzih5KM/4XM+lT4=",
+    "first_seen": "2026-09-17T21:01:35.311391",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100582102246064128": {
+    "session_id": "rl8BAkdDTQCjp6gePS+uCNjeYDQ/MsGzV+xrrYOHG+MQq8P61U3HzFZO/Cuw1DE9SHStFfryEds=",
+    "first_seen": "2026-09-17T21:01:35.890926",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100582090362761216": {
+    "session_id": "rl8BAkdDTQDhJFpRbP7ryuKApSLjtzjt30MblWXlUCfxtdmL45ykK2sCzHRd30V/ztNMEk40dlai",
+    "first_seen": "2026-09-17T21:01:37.514503",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100582048277114880": {
+    "session_id": "rl8BAkdDTQBq75XB65v0i8HJleRaAJ1IMfnoGAMGlIj+nPI4Ds7j72mpcl8Mk3lc0AcEZ/GSc4nm",
+    "first_seen": "2026-09-17T21:01:39.088201",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100542425931747328": {
+    "session_id": "rl8BAkdDTQDxeGHSno92IXknzuVLNA0bYBCqmwr8PghXqkKt3vZCcd76U79c0mvZnAOmKpyqCODn",
+    "first_seen": "2026-09-17T21:01:41.672816",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100512364958035968": {
+    "session_id": "rl8BAkdDTQDxeGHSno92IXknzuVLNA0bYBCqmwr8PghXqkKt3vZCcd76U79c0mvZnAOmKpyqCODn",
+    "first_seen": "2026-09-17T21:01:42.345494",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100543490569764864": {
+    "session_id": "rl8BAkdDTQAQpPgjQSzJVobkPo/ycRM6YALI/+vN0SQNzlF6NVqvrOzZalYPQK6P9W4QFaHo/kSb",
+    "first_seen": "2026-09-17T21:01:44.693749",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100543724687323136": {
+    "session_id": "rl8BAkdDTQDSMyoIVzo2RSzCFm3lXLckCuHozFArmLo0DS0bVDxpjMQ7Q/JWocERUUjKD6cCd/a3",
+    "first_seen": "2026-09-17T21:01:45.821759",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2076178270779654144": {
+    "session_id": "rl8BAkdDTQDNwOEurQrPNDiXO5vqlV5gsEej5rCZkvbzSpSaweEnPqhpY0Wq19tWwIjdwldwDc0=",
+    "first_seen": "2026-09-17T21:01:48.648760",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100544563918155776": {
+    "session_id": "rl8BAkdDTQDNwOEurQrPNDiXO5vqlV5gsEej5rCZkvbzSpSaweEnPqhpY0Wq19tWwIjdwldwDc0=",
+    "first_seen": "2026-09-17T21:01:49.189206",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2073813590405128192": {
+    "session_id": "rl8BAkdDTQDNwOEurQrPNDiXO5vqlV5gsEej5rCZkvbzSpSaweEnPqhpY0Wq19tWwIjdwldwDc0=",
+    "first_seen": "2026-09-17T21:01:49.759855",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100588044120797184": {
+    "session_id": "rl8BAkdDTQBn8zmUmdiA0Igx32yYTCOtUzjDuyaJRMVraDGWcYmIpysAsOBvn0SFvei3zUKQccY=",
+    "first_seen": "2026-09-17T21:10:09.682015",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100589401357651968": {
+    "session_id": "rl8BAkdDTQDegDIO0NUxqKW2qf4CymXJcskBMtH0Zl9spPhdzvtF3aJ6R9SrD80/D+IvlzNoJpHL",
+    "first_seen": "2026-09-17T21:16:53.622592",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100589959820140544": {
+    "session_id": "rl8BAkdDTQBVU5+zA62GrO0nKrjr/j0vojpVuxCSNoA8zknt2yW2595rdrYfhKfr1wYu2zUywYI=",
+    "first_seen": "2026-09-17T21:17:35.361425",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100595133353832448": {
+    "session_id": "rl8BAkdDTQBKlj0zzh6sHfLkMVut8icwr5tDIYuPBJfp03A2aHaYIj1SaYYANM2gs9lXiXRokr0=",
+    "first_seen": "2026-09-17T21:38:14.380120",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100598650877501440": {
+    "session_id": "rl8BAkdDTQBfT5yC1fveasv4L5h4OcZmk9TFtvRb796EsFJzNQAWH8RbpGam8Nn8h4luo9Z+sQw=",
+    "first_seen": "2026-09-17T21:52:11.602745",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100599772798017536": {
+    "session_id": "rl8BAkdDTQBT+pZ5iNY/xwgCQv+PXU7f2Y+kBUp+25tMEOhyFrDOOvMl5YaKViC/anG1A43t+sWW",
+    "first_seen": "2026-09-17T21:56:31.825237",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100601676471332864": {
+    "session_id": "rl8BAkdDTQC4svtg6O45uCTHmceL1NkQDYWnpwSWgwaM9RaIfC2L1MoO2MH/52hXGikRG+Y5wpk=",
+    "first_seen": "2026-09-17T22:04:15.867514",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100602710310113280": {
+    "session_id": "rl8BAkdDTQA/My6n4A4ammIHzRmkJZjXItPpMJF+zycVmwkgf2yRdej+Mi89FsDYQP0l3QVUXbM=",
+    "first_seen": "2026-09-17T22:08:26.521516",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100605866178011136": {
+    "session_id": "rl8BAkdDTQCM/OGAOaK7Gc8qsrtJAXq+GiF1js+/OTV9t1wAIzEwVYlFRNx/5BThG+hv/6GWwtDF",
+    "first_seen": "2026-09-17T22:20:47.771369",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100607425547374592": {
+    "session_id": "rl8BAkdDTQAgs0xijB4Zbkq4kz86NQdmBhafr93l7s+z5xh1TFqpkmM49mpgpocnd0PD6A89n4Zh",
+    "first_seen": "2026-09-17T22:27:06.101611",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100608180856283136": {
+    "session_id": "rl8BAkdDTQC7JK9a0TNKpmoMyM8ZA18aaB0mrwrEO72cHh6ZoMDyuhSIzL4bG3NZRvxEIbIMfvZX",
+    "first_seen": "2026-09-17T22:29:58.367674",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100609884746166272": {
+    "session_id": "rl8BAkdDTQAPkpe/pIpNYB4mFdwRwNagAVisz74Xo711Kf2vkd/V9wcgp6kBtHHsfJ3bOfh6dFWZ",
+    "first_seen": "2026-09-17T22:36:53.814604",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100610814088196096": {
+    "session_id": "rl8BAkdDTQC2tih+x2wZCE63S/g4TTiourjVCTp3WwUzBQK9DFsdBGX+poeqe2uUUnD9K0MnwE6z",
+    "first_seen": "2026-09-17T22:40:32.310334",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100611161118990336": {
+    "session_id": "rl8BAkdDTQDSc01FN+RntPigh0NMHEbATA1T2WK28L/0yRJqPMVojwxspnlDP/ECBVfvX9yEe11n",
+    "first_seen": "2026-09-17T22:42:00.876271",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100605465336393728": {
+    "session_id": "rl8BAkdDTQDQ6+Ztoxp4kaq2z/JiqHfa3BAyo+Y7q6Qvub+Nc3k9jG4EIoWzDh0Tj+AeLheSd24=",
+    "first_seen": "2026-09-17T22:56:04.337719",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2086850157669216256": {
+    "session_id": "rl8BAkdDTQAApu6jpbC1De11WA1QdPjiaEfA8jDl5QubCvOP9IsWoofVfEdc2R+GtBGxQcpik4dH",
+    "first_seen": "2026-09-17T22:56:08.253834",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100605400691814400": {
+    "session_id": "rl8BAkdDTQAApu6jpbC1De11WA1QdPjiaEfA8jDl5QubCvOP9IsWoofVfEdc2R+GtBGxQcpik4dH",
+    "first_seen": "2026-09-17T22:56:09.379408",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100607527184175104": {
+    "session_id": "rl8BAkdDTQAXxtPN/bPsJzeAp98ecdIwwJYfhaBc1MY9bzoJmFAPzfQTA6bhIqdSCJg1Mrp4WoI=",
+    "first_seen": "2026-09-17T22:56:11.270764",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2098297573284384768": {
+    "session_id": "rl8BAkdDTQCxvDKvxF78gr5Eg/c0uMVV2HgqNP5SLb35gsp2D3ztI9GGEs95zWa4qs9p8WT0J3Hx",
+    "first_seen": "2026-09-17T22:56:13.267472",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100605231089082368": {
+    "session_id": "rl8BAkdDTQCxvDKvxF78gr5Eg/c0uMVV2HgqNP5SLb35gsp2D3ztI9GGEs95zWa4qs9p8WT0J3Hx",
+    "first_seen": "2026-09-17T22:56:14.107933",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100615256624836608": {
+    "session_id": "rl8BAkdDTQDytLj99Y3ZXFQn5dEx1t+qiY75yMvuXtd5sXursXVr3zlwu96RqOzBo+vyTZx8Ezg=",
+    "first_seen": "2026-09-17T22:58:09.429788",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100616021334208512": {
+    "session_id": "rl8BAkdDTQCGGE041BYlT8HJMhi4mA6Mr9qd22kPIWrWZx4zwuGIEscyiqZpA0nIfBNCuEI+5tQ=",
+    "first_seen": "2026-09-17T23:01:16.831918",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100616808020168704": {
+    "session_id": "rl8BAkdDTQCZL5v7Jpank68OsNHIuEHeutStEsE8YMelF1kFyayaStXySnGJTaOBhtPzXNmV/6vp",
+    "first_seen": "2026-09-17T23:04:28.052383",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100618477350096896": {
+    "session_id": "rl8BAkdDTQAltcUZr5jBvGAdCAuFJlsJ7B6KSy1Ph69y9qxs/BS2KUlWj0sAWP1Ff5eCJlrmV6g+",
+    "first_seen": "2026-09-17T23:11:01.935507",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true,
+    "direction": "SELL"
+  },
+  "2098099212391788544": {
+    "session_id": "rl8BAkdDTQAWW/UVQI/On3a9UFCuW3rmAPKnwro0mK9GlLw39fTJr3hpVYcWETaFZM0her/Iozxo",
+    "first_seen": "2026-09-17T23:13:24.568406",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false,
+    "direction": "BUY"
+  },
+  "2100619116673146880": {
+    "session_id": "rl8BAkdDTQAWW/UVQI/On3a9UFCuW3rmAPKnwro0mK9GlLw39fTJr3hpVYcWETaFZM0her/Iozxo",
+    "first_seen": "2026-09-17T23:13:25.267804",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true,
+    "direction": "BUY"
+  },
+  "2098455809607413760": {
+    "session_id": "rl8BAkdDTQAWW/UVQI/On3a9UFCuW3rmAPKnwro0mK9GlLw39fTJr3hpVYcWETaFZM0her/Iozxo",
+    "first_seen": "2026-09-17T23:13:27.479705",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false,
+    "direction": "BUY"
+  },
+  "2100619797401292800": {
+    "session_id": "rl8BAkdDTQCx+vF3WhZ2lks9gLAndWr1eBl7kPzJ3wfGHEYblWueetFjC8xo38R5UpkWuFd6vRLt",
+    "first_seen": "2026-09-17T23:16:16.137848",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true,
+    "direction": "SELL"
+  },
+  "2100621846425919488": {
+    "session_id": "rl8BAkdDTQBDIMLOrMZ4J5pmqAQrFicpjqD99/HBwZcfXzrqwKIWbmGfKnGo5tArK/D2m+7vmks=",
+    "first_seen": "2026-09-17T23:24:22.678203",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2083343923812995072": {
+    "session_id": "rl8BAkdDTQDjrt2cqzR6JooKS9xMDXCsyPGoEfINgX5p+/BiH2nFPjkeFkgJQd264aDWCF3vTkZ+",
+    "first_seen": "2026-09-17T23:24:57.150771",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false,
+    "direction": "BUY"
+  },
+  "2100621987506462720": {
+    "session_id": "rl8BAkdDTQDjrt2cqzR6JooKS9xMDXCsyPGoEfINgX5p+/BiH2nFPjkeFkgJQd264aDWCF3vTkZ+",
+    "first_seen": "2026-09-17T23:24:57.723632",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true,
+    "direction": "SELL"
+  },
+  "2100622424845291520": {
+    "session_id": "rl8BAkdDTQAFDGxgimugB+jD3PGad9dvdN1kQNxBJl6MzwPlmKxhMqp4ppayQOm1fRlp+6WDjmA=",
+    "first_seen": "2026-09-17T23:26:42.291514",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100622616947908608": {
+    "session_id": "rl8BAkdDTQBDWRpCRwjXkL0vwjJx8fe1JHFKkQaWjzigJO4UAkKnPLJO8imd6hrQOjcwaQ90v31m",
+    "first_seen": "2026-09-17T23:27:21.061613",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true,
+    "direction": "BUY"
+  },
+  "2100622813591412736": {
+    "session_id": "rl8BAkdDTQBPZPbJQ7E+rCfzubGGCi6VqeNOQ5DQ0wNtuvh6/G1MRrj54JMLzjX5zd8A7EZq1QI=",
+    "first_seen": "2026-09-17T23:28:18.779303",
+    "last_status": 40,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100624526677315584": {
+    "session_id": "rl8BAkdDTQDx+to8WWKN1lg53uNMRrX0+N4tcHBrWixLX67oizIoGsGdz/IeyoLy1FXBNmcpYypL",
+    "first_seen": "2026-09-17T23:38:22.519125",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false,
+    "direction": "BUY"
+  },
+  "2100626198541905920": {
+    "session_id": "rl8BAkdDTQCK8ZVlkthpLnXT5/8cHMVrrFfuCjMDQqMBoyng0wDurvYex8VePFOCtEh7+q/DJsc=",
+    "first_seen": "2026-09-17T23:41:37.612133",
+    "last_status": 40,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100626485992534016": {
+    "session_id": "rl8BAkdDTQD8xDJo98oJGEhy1RrBCFNMHW77/CaYVleXI5qgWl+f+0QS7ki9LZNKw68NUHR5MOs=",
+    "first_seen": "2026-09-17T23:42:39.369625",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true,
+    "direction": "SELL"
+  },
+  "2100626820215832576": {
+    "session_id": "rl8BAkdDTQAR9Zwc8foqGW0cpGKfe3TMNnvnqx8TG9jB8MtATqHiDtsW7i+cVTZJdQcfUTj3usE=",
+    "first_seen": "2026-09-17T23:44:03.879109",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true,
+    "direction": "BUY"
+  },
+  "2100627259581988864": {
+    "session_id": "rl8BAkdDTQDmg1X7UdSjlVQfwDNVUFeE6f4bwfrzN2HEWyrvC51v/xHRC+aEsZyFsEsquIlQ2pY=",
+    "first_seen": "2026-09-17T23:46:00.140913",
+    "last_status": 40,
+    "message_1_sent": true,
+    "message_2_sent": false,
+    "message_3_sent": false,
+    "direction": "SELL"
+  },
+  "2100628527616557056": {
+    "session_id": "rl8BAkdDTQCNnmEFLxjxHtUD/ad6LZAOtCCDrtZ+4KtVavMO8V8HJuqthSwsS3ECduyt1MQkHC5w",
+    "first_seen": "2026-09-17T23:50:47.107747",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true,
+    "direction": "BUY"
+  },
+  "2098466884531920896": {
+    "session_id": "rl8BAkdDTQAq6gp2QN91NIsW2wV6/laN3R5eLB9WufEdPmxqc9AUcJygeI14z0ZWQ7PhUV/k8byt",
+    "first_seen": "2026-09-17T23:50:49.481080",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false,
+    "direction": "BUY"
+  },
+  "2100628485319020544": {
+    "session_id": "rl8BAkdDTQAq6gp2QN91NIsW2wV6/laN3R5eLB9WufEdPmxqc9AUcJygeI14z0ZWQ7PhUV/k8byt",
+    "first_seen": "2026-09-17T23:50:50.011922",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true,
+    "direction": "SELL"
+  },
+  "2100629464607338496": {
+    "session_id": "rl8BAkdDTQBkzbg3mnC2SwRpv/1NkPbsyHY/FvmuIcmMnK071MNLm6zovnqoCEfq7F7d43X7AVi6",
+    "first_seen": "2026-09-17T23:57:32.898245",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false,
+    "direction": "BUY"
+  },
+  "2100630635959414784": {
+    "session_id": "rl8BAkdDTQAXBC/Jxln0jI/srMF5AjUzcG9QsATyVwxtAACzme6W06laSG7Lj5UEwjof0f9C1r4a",
+    "direction": "BUY",
+    "first_seen": "2026-09-17T23:59:20.608120",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100630992944607232": {
+    "session_id": "rl8BAkdDTQC/Qh0f7P4TIq7maEENuvVSFkQIFHR8dmllDsqR4FqJQRmRb1THRffRCJoc8qtP/2Q=",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T00:00:44.082935",
+    "last_status": 40,
+    "message_1_sent": true,
+    "message_10_sent": true,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100632130824212480": {
+    "session_id": "rl8BAkdDTQB7YnyW6+1VK8bdu1m5TgHgCIvpPxZmjxKenajRkyNg5sdY3a3Om/7oaOBvK9YK7RSP",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T00:05:05.834526",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100632595375235072": {
+    "session_id": "rl8BAkdDTQAz4+LcG796emVGOYETmM+xJd10m4/DSZG48QFI4vAiBKBTr69tJ8XsJ8UxttyX7qv5",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:07:12.859146",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100633424009072640": {
+    "session_id": "rl8BAkdDTQCeIojWI7a1Kg3lD+wzgoCywn8SO6VEEmmEp7vp9SvreLpIkDwvAKwsaJI9OUOl1b4d",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T00:10:25.261780",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2099926595461918720": {
+    "session_id": "rl8BAkdDTQBvuZZwNRKsKynHdJ+Fh2JrPtzx8DKj1g6BS3wli0b66mLtC88m8Kz9qOoVhuuWYlNN",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T00:16:24.999405",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100634917835550720": {
+    "session_id": "rl8BAkdDTQBvuZZwNRKsKynHdJ+Fh2JrPtzx8DKj1g6BS3wli0b66mLtC88m8Kz9qOoVhuuWYlNN",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T00:16:25.482154",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100635234626318336": {
+    "session_id": "rl8BAkdDTQB6AQHI6yW2ffU5AULQIBOx1sUA+gxpl2eHpIZ/EBXyJOH8cxTemf2Hf+mNtR/2AEc=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:17:45.289863",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2099770094154973184": {
+    "session_id": "rl8BAkdDTQDHj2qk4JZZLqZ6HonH2iCBJ60dTZdOfD1m/lRnADdDo1sfrhfAtn69Jdj8s98ZwoOR",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T00:22:35.751402",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100636516054491136": {
+    "session_id": "rl8BAkdDTQDHj2qk4JZZLqZ6HonH2iCBJ60dTZdOfD1m/lRnADdDo1sfrhfAtn69Jdj8s98ZwoOR",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T00:22:36.436070",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2099721655973654528": {
+    "session_id": "rl8BAkdDTQDmG5aKv2wZYOtisDbuh2tzb7Ip3IrDkIwTsfmqxTS6lwYvTpx9C+tppohtVmLmUwHs",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T00:22:37.615640",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100637030649364480": {
+    "session_id": "rl8BAkdDTQD7nCcR4h86/XV0p1H0495HvcEXPdgVClgRThheNhEYF/Me4kPqAXWD9r4JG7rtx31t",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:24:37.561184",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2083138299675246592": {
+    "session_id": "rl8BAkdDTQD7nCcR4h86/XV0p1H0495HvcEXPdgVClgRThheNhEYF/Me4kPqAXWD9r4JG7rtx31t",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:24:39.694962",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2098105715612848128": {
+    "session_id": "rl8BAkdDTQD7nCcR4h86/XV0p1H0495HvcEXPdgVClgRThheNhEYF/Me4kPqAXWD9r4JG7rtx31t",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:24:40.598923",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100637025469116416": {
+    "session_id": "rl8BAkdDTQCCjtZ8vTLfITz8EWBbmzIuiyiwvH12TFPICxCtPCucR2CvhpQ3U/RYeTwLC/+lxY7i",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:24:41.941819",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2098409255077105664": {
+    "session_id": "rl8BAkdDTQCCjtZ8vTLfITz8EWBbmzIuiyiwvH12TFPICxCtPCucR2CvhpQ3U/RYeTwLC/+lxY7i",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:24:43.877820",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2099767123347951616": {
+    "session_id": "rl8BAkdDTQCCjtZ8vTLfITz8EWBbmzIuiyiwvH12TFPICxCtPCucR2CvhpQ3U/RYeTwLC/+lxY7i",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:24:44.530850",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100638556318830592": {
+    "session_id": "rl8BAkdDTQCm+s7LCVraP0UFBrw0qb9YHdSpdggpDc9yESeL/uhZsyZZp8pgx9xvGjexIDT/ux8=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:32:03.527253",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": true
+  },
+  "2100161215001550848": {
+    "session_id": "rl8BAkdDTQCm+s7LCVraP0UFBrw0qb9YHdSpdggpDc9yESeL/uhZsyZZp8pgx9xvGjexIDT/ux8=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T00:32:04.424745",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100640733406101504": {
+    "session_id": "rl8BAkdDTQCx09k+OqAXV1Bd7slpy4Waq4PUCHVCZMMsDpLsynY+1H5u5dKyyIihD3JiJUOQB1hl",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T00:39:48.630661",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100644675458215936": {
+    "session_id": "rl8BAkdDTQDyZ6+dth5KTabLEoG/xidLgeyK7h/4arq9Z6yAn9s+UntyG5QLF/QctKd3QYNXUtXC",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:07:00.525716",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100645192777986048": {
+    "session_id": "rl8BAkdDTQAw4MqHlhVb+UBiPpg9317DSSgpOHWB63jzf9R9xDSaDuKrN2p2dPvrfZiWzyQ4LZWp",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:07:00.525763",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2098441716828807168": {
+    "session_id": "rl8BAkdDTQAw4MqHlhVb+UBiPpg9317DSSgpOHWB63jzf9R9xDSaDuKrN2p2dPvrfZiWzyQ4LZWp",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:07:00.525779",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100645713198473216": {
+    "session_id": "rl8BAkdDTQDsbpGJ5uRDn/pgqftdzmoknjAKuR544rAeef5BmXtktlzwJiXDQMYWWsU3siNdfL0=",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T01:07:00.525799",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100646841235189760": {
+    "session_id": "rl8BAkdDTQDwJvwr8/QFGFUouJA2n//AHd3zlnU+Niro3NRuOsAcjeCpWzLT9DiaNyCYjUn0jyo=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:07:00.525814",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100648068073361408": {
+    "session_id": "rl8BAkdDTQAvBJIT3rQPAchAccyMu1SZelnsGuvLRMAErqG+1WpRmegXf9Fj0WcUkcGeXL4vun0m",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T01:08:28.613708",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100649254467395584": {
+    "session_id": "rl8BAkdDTQBbeDUONU8SxK688waPlPEWiRKg37ovaz6DPEHjF+Ra9suiTFEZizaBodwqaZwsMn1D",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T01:13:11.445305",
+    "last_status": 40,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100652860002992128": {
+    "session_id": "rl8BAkdDTQDN/5JJ4r57YBjZBlo22KIJlNoYZ1nrAer5cyAy65rEB8/o7+T6SE3iAfiw/qOn0TI=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:30:05.880481",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": true
+  },
+  "2100652113100132352": {
+    "session_id": "rl8BAkdDTQBbeDUONU8SxK688waPlPEWiRKg37ovaz6DPEHjF+Ra9suiTFEZizaBodwqaZwsMn1D",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T01:30:05.880524",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100654386477064192": {
+    "session_id": "rl8BAkdDTQDwJvwr8/QFGFUouJA2n//AHd3zlnU+Niro3NRuOsAcjeCpWzLT9DiaNyCYjUn0jyo=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:33:36.075766",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": true
+  },
+  "2100654888973410304": {
+    "session_id": "rl8BAkdDTQAM+zhwkXL6NwMPwnE+dmxatTJftiVjMMx1KI0qFsUcXS7UMUhb7gO+zm1yZPYeZAns",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:36:23.015591",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2098457444054425600": {
+    "session_id": "rl8BAkdDTQAM+zhwkXL6NwMPwnE+dmxatTJftiVjMMx1KI0qFsUcXS7UMUhb7gO+zm1yZPYeZAns",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:36:23.015639",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100655491186135040": {
+    "session_id": "rl8BAkdDTQDwJvwr8/QFGFUouJA2n//AHd3zlnU+Niro3NRuOsAcjeCpWzLT9DiaNyCYjUn0jyo=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:37:58.458430",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100655810759794688": {
+    "session_id": "rl8BAkdDTQA9m4R9BlVtJvYf6JpG8HXJHMqEmEPVeY2GodvAhppv3YuiU7KGfmsVGuv5zFVARiM=",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T01:39:13.199470",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100656286408519680": {
+    "session_id": "rl8BAkdDTQBpeIPJI2/u76aTiiXy1c5pPmFanoKtKR683+D5+az40lDxngvinalwsEfuMXWU3YI=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:41:09.722385",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100659124224450560": {
+    "session_id": "rl8BAkdDTQDOwrwucMAtp0zbtRhV+bliZenEe5UICqkUWd1sAcSvsTcT6/wW5YCsQ9bkP1jnE6d6",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T01:52:23.245205",
+    "last_status": 40,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100659538163183616": {
+    "session_id": "rl8BAkdDTQDn+W3it0YI7Ys5zh+atvLqyO6UcZ6vS+neNECvY3mI6K02I2xiIWFvn/1sNuv2mfvd",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T01:54:05.011494",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100660112067629056": {
+    "session_id": "rl8BAkdDTQCGK7URXRc//YAk6zaEk+na/UJGkSb1VXTUPqpruRXtORU+O6wKdMZK3gqMMNb49BY=",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T01:56:21.062576",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100662588031143936": {
+    "session_id": "rl8BAkdDTQDnDtm8eVw94SD+yJD8PzAnQe9FPVIvABQoIKOhBWSNPyxPtxlszNMyWoA1ze1Vq+1V",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T02:06:08.400458",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100663318269100032": {
+    "session_id": "rl8BAkdDTQBeKDXW2MMXfT1M/5+m3KJlmdlGjraMUQV5ONBfSZJTiKrRcyh48zi4v7P8inGT79N1",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T02:09:02.972484",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2099909510390140928": {
+    "session_id": "rl8BAkdDTQBeKDXW2MMXfT1M/5+m3KJlmdlGjraMUQV5ONBfSZJTiKrRcyh48zi4v7P8inGT79N1",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T02:09:03.470319",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100663515807420416": {
+    "session_id": "rl8BAkdDTQB4ErlRSJFDWlwz+xUHkJa7Cq0tW2t+GD4FfOavvuijoGNlj3te4gD6vjaDj9KiyUS1",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T02:09:50.554782",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100699632854306816": {
+    "session_id": "rl8BAkdDTQA2eeSEL22yMv7QKJClCsAKv/zjmX+ud0TXzAzxtLzk8Vf6Ypr3Tj4wJqMRwztQ9175",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T04:33:22.490277",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100703134087438336": {
+    "session_id": "rl8BAkdDTQAqiA2lOvaN2NvGRMoi+7deuCwrkkuY/qZSGKaSG47E3duT88nT5M6ZjXIVHmZ4fUTa",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T04:47:18.204915",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100704382449471488": {
+    "session_id": "rl8BAkdDTQBfURkWWroQG47qSP/65J79s/2bNuFkl4Yk2ksnj6dixTEew1Bp5zMcm8LO1sD2rHTs",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T04:52:13.898163",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100705698692739072": {
+    "session_id": "rl8BAkdDTQCnRtRs9XaxGszy8mkEgF9g6w4X9rcXoYyJbdqJSiKGE8Xo9P8OhiitHQu7l2aQTLZB",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T04:57:26.579252",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100706134376697856": {
+    "session_id": "rl8BAkdDTQC3jytlE8EIQFEyuU8o/wf9V7Y9NS0jrL9E/rIiSAEHDdHzBzEGdrcBbkB93x5/1qYU",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T04:59:10.454292",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2077028016228122624": {
+    "session_id": "rl8BAkdDTQDLKMBGoFB67mbRrrMQZ4uJp5DF/3sVADtjxP9wLSXn2URD9iu4UNE8im2S5lgEI7Ek",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T04:59:11.124872",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2077025938273452032": {
+    "session_id": "rl8BAkdDTQAOSzoPdwTHHu3Efre/F3Otyt4jVEptzjj00wG5nKaWxWd0sif5ZopsIZgmv7ZQbUd5",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T04:59:11.137626",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100708152645791744": {
+    "session_id": "rl8BAkdDTQDxmPyjGjtvBnblzm8DKl0KjeNUPf0G3JW9li1YXzdlJmOS6kGh5bDHRAzx+ww9u/A=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:07:14.098470",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2098411565270249472": {
+    "session_id": "rl8BAkdDTQDxmPyjGjtvBnblzm8DKl0KjeNUPf0G3JW9li1YXzdlJmOS6kGh5bDHRAzx+ww9u/A=",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T05:07:14.563958",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2086792109108662272": {
+    "session_id": "rl8BAkdDTQDxmPyjGjtvBnblzm8DKl0KjeNUPf0G3JW9li1YXzdlJmOS6kGh5bDHRAzx+ww9u/A=",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T05:07:14.568062",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100709401492049920": {
+    "session_id": "rl8BAkdDTQC3jytlE8EIQFEyuU8o/wf9V7Y9NS0jrL9E/rIiSAEHDdHzBzEGdrcBbkB93x5/1qYU",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:12:11.326109",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100710547045801984": {
+    "session_id": "rl8BAkdDTQDX0/17x4yaxflkCLVbLFk0a5Ud174WefnUkdrNC4eLmdrqVTbiXMDfELP1KKkrG9px",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:16:44.085989",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100710737248923648": {
+    "session_id": "rl8BAkdDTQDh1ZzvdyCZ5mDgX2Q/rbRBV+9COcrIP/qralq6Mhei+OU1MOHVPNPMzThMKqX3LlHi",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:17:31.331420",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100712308119482368": {
+    "session_id": "rl8BAkdDTQAAuPb2/i684IoKcdzXM/nr9DYmLkBoOHOk+P9AcTYt0LuyhfimN3hIy3ug+elAJajD",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:23:44.486134",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100713970553991168": {
+    "session_id": "rl8BAkdDTQAzS58Jspihi7V4Crz622vTO+HJGTvDv+iO8IUh1CDH6eyVcsJXZpJa+5r5rnVVzSY=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:30:18.290131",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100714178470981632": {
+    "session_id": "rl8BAkdDTQDTJWnU0HkStSsWvrXL8nSPyuo4dfHVpZN+nrHKvSt1fljZ8RkO+h8N1OpvieAiRw==",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:31:11.519775",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2098460449579503616": {
+    "session_id": "rl8BAkdDTQDTJWnU0HkStSsWvrXL8nSPyuo4dfHVpZN+nrHKvSt1fljZ8RkO+h8N1OpvieAiRw==",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:31:12.537552",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2098410721760800768": {
+    "session_id": "rl8BAkdDTQDTJWnU0HkStSsWvrXL8nSPyuo4dfHVpZN+nrHKvSt1fljZ8RkO+h8N1OpvieAiRw==",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:31:12.553233",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100715368865300480": {
+    "session_id": "rl8BAkdDTQBumgKIIJnagscpEZVMSRWAN0X8EjJEadJnuKDPMScSlWtOedlc9YMtqW6EbCm4X1vx",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:35:55.163806",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100464573781168128": {
+    "session_id": "rl8BAkdDTQBumgKIIJnagscpEZVMSRWAN0X8EjJEadJnuKDPMScSlWtOedlc9YMtqW6EbCm4X1vx",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:35:55.631341",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100717173015703552": {
+    "session_id": "rl8BAkdDTQClTmb8YxtbzgCWsyIdem9atD8SUJ6Lnsmwk6w4EV+OI9Ua5wDS2Jfi3Lbwxlqs63sL",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:43:04.798803",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100721247628341248": {
+    "session_id": "rl8BAkdDTQApOuDL6YsZ9r08zDGwFAcGhXC3mM3Z8oilAdWJe9UYWBpwIqW8v29uZimcOLijnGjy",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:59:17.671378",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100721273098960896": {
+    "session_id": "rl8BAkdDTQBz4xBsI6pamiCZx5O9+EbLHv1WIAF/fhsSvR8AijbKofBd2mSBxZQXf6z6WkSGcG4=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T05:59:22.727535",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100487207690088448": {
+    "session_id": "rl8BAkdDTQCxJaHlncL3aeVf4Zss/aRUtBexY7dpbnPfEfzescs04zVliSE2sl6bd8diNIMAIS8v",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:01:34.090194",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100721817579151360": {
+    "session_id": "rl8BAkdDTQCxJaHlncL3aeVf4Zss/aRUtBexY7dpbnPfEfzescs04zVliSE2sl6bd8diNIMAIS8v",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:01:34.105309",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100722450443776000": {
+    "session_id": "rl8BAkdDTQC3jytlE8EIQFEyuU8o/wf9V7Y9NS0jrL9E/rIiSAEHDdHzBzEGdrcBbkB93x5/1qYU",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:04:03.256638",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100724895071375360": {
+    "session_id": "rl8BAkdDTQD25Q8caX0ZY+8B7xLNWD+PiJv8kF46PbzLLiIlKJVe991uGKoYCRbgO31FeJv/f82r",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:13:45.374513",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100725504340168704": {
+    "session_id": "rl8BAkdDTQDafFzO06SIaWousrZdrvJyaY2joIgYrWaBC+F0rIRgPGA7j2eL9Uv4AFkhhXldQrE=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:16:10.983875",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100726118294544384": {
+    "session_id": "rl8BAkdDTQCCgR9wwJ3JqQbgHm4RXzTegQp8ZKvv/e8RhBWHQAfpixcPx5hTYV1IMwYSoOxwqFRq",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:18:37.088398",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100727287144525824": {
+    "session_id": "rl8BAkdDTQDxF8wQCY+3sY+U01ocOp4/9HrxRVBzmiPP9YUWU5+/9Kf6JDrQmN0/njSa/kn3nyQ=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:23:14.565394",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100463056255115264": {
+    "session_id": "rl8BAkdDTQDxF8wQCY+3sY+U01ocOp4/9HrxRVBzmiPP9YUWU5+/9Kf6JDrQmN0/njSa/kn3nyQ=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:23:15.162835",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100727731261300736": {
+    "session_id": "rl8BAkdDTQCx09k+OqAXV1Bd7slpy4Waq4PUCHVCZMMsDpLsynY+1H5u5dKyyIihD3JiJUOQB1hl",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:25:00.943230",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100729138500579328": {
+    "session_id": "rl8BAkdDTQD21WD5P/aYyPG5UwB9HfcYZ1Wj5fGEpO9nPZSIMYP8knNGGPAz9+wa+Uu4JzhhqQYH",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:30:37.546375",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100730707408203776": {
+    "session_id": "rl8BAkdDTQA1la2A5hMDzXlT74cw58+jn5qYFKucxiwB2LORTpR4LuJyyXrKmN9R8xn3j0LHug9U",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:36:52.944486",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2079925193407275008": {
+    "session_id": "rl8BAkdDTQA1la2A5hMDzXlT74cw58+jn5qYFKucxiwB2LORTpR4LuJyyXrKmN9R8xn3j0LHug9U",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T06:36:53.683179",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100731205906530304": {
+    "session_id": "rl8BAkdDTQD96cg7rvlbjlGXsCxUvQKsXUHp1raI73l+rdXADLgKMe/ESDYs1YoDP+6b39FSUkzr",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:38:50.501699",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100731560140439552": {
+    "session_id": "rl8BAkdDTQAljUVDWQ//ZQveS2m95JFIGtpfxXbEuAI/RqWJQs7HcKiuPAaAyk0hT2XBHCtL96Sx",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T06:40:12.679481",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100904115008819200": {
+    "session_id": "rl8BAkdDTQBXmFJpmv5E+WNxInxoxTS5pwYNx6ImAU12nbaEwr2uyHhoaFx5w9YNIr070pw9kILk",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:05:53.975553",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2098440657679986688": {
+    "session_id": "rl8BAkdDTQBXmFJpmv5E+WNxInxoxTS5pwYNx6ImAU12nbaEwr2uyHhoaFx5w9YNIr070pw9kILk",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:05:54.658244",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2098296516522704896": {
+    "session_id": "rl8BAkdDTQBGEL/Gl1dYnYMSVD5N1Qcf7CG06aRFrAuBDJNKSpnOsBhLoSori81+/ApIGaB+3n2D",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:05:54.665211",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100904395622285312": {
+    "session_id": "rl8BAkdDTQD0yeVUSDu7Vgu6ETeuZTLJlfl2sAw6bBgbdyrQdv9tkgnCcfFjdCqQ3RbFpk3ELLhM",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:07:01.849906",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100904983933759488": {
+    "session_id": "rl8BAkdDTQAq/4xPPrm+Oek6YZDlI06/5aUjICPedQMAiM49BopoleyqsruywsiP/xyKVZXRzWs=",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:09:21.150111",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2074032084011487232": {
+    "session_id": "rl8BAkdDTQAq/4xPPrm+Oek6YZDlI06/5aUjICPedQMAiM49BopoleyqsruywsiP/xyKVZXRzWs=",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:09:21.884375",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100905159697829888": {
+    "session_id": "rl8BAkdDTQAQ+iJwqxzmaWpiurL7DG9q0XFzN2O1PrsMeq5ZHScsEt6pdpn/ui05tvceIDInTuY=",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:10:07.097698",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100905776375263232": {
+    "session_id": "rl8BAkdDTQBWSof7lAnYm1pFT9Lwxw80Xw5JpRyDBG9zPUeAAD5oP+SByFiJ/8M6Z7rkVe9Oc6Mj",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:12:30.800200",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100905784184377344": {
+    "session_id": "rl8BAkdDTQDunOXFXwdcR5vMq5Wu+UdB9FdnRVMsQMQ9+4E0rRj60pIqO+wpZ+MHsPZ+79AieuoO",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:12:35.874378",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100161224076718080": {
+    "session_id": "rl8BAkdDTQD2j9yr+lmzLX+ygLzuft3+yCn0NTy5DlOEIN8OPBH8f/VRV4YAwxaQTqVqTnCp2f3q",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:14:48.620580",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100906344843431936": {
+    "session_id": "rl8BAkdDTQD2j9yr+lmzLX+ygLzuft3+yCn0NTy5DlOEIN8OPBH8f/VRV4YAwxaQTqVqTnCp2f3q",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:14:48.628044",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100906389934465024": {
+    "session_id": "rl8BAkdDTQBvuQSz9s1gy7zRUlT6cAcaVVdG2K3NRUpUKHHLUzKjoYvNwiYWSNpVNKDF6U3q0Ag=",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:14:58.667230",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100906578708783104": {
+    "session_id": "rl8BAkdDTQCBC6bc4ZNCSoKn4tRBAHBMvT23AXxms5S/rq8uW5VrhxSqvrMJcFAGbfS8SqxG1DsX",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:15:43.727877",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100907008415248384": {
+    "session_id": "rl8BAkdDTQDdksARwXOrlxpmoM8BZCE9u2a8b5qfDNjtrwXS+lK8d7IpDZ68KHXELrrjB67S8GLe",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:17:24.411574",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2097967812379746304": {
+    "session_id": "rl8BAkdDTQDdksARwXOrlxpmoM8BZCE9u2a8b5qfDNjtrwXS+lK8d7IpDZ68KHXELrrjB67S8GLe",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:17:24.981697",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100907223605719040": {
+    "session_id": "rl8BAkdDTQArrkgy5Ch7p0X1njIUPzyAw1R4zI8KZ+l3inx5OER5zxdJDY5w600ESaAqziOzag==",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:18:16.168540",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100907498148900864": {
+    "session_id": "rl8BAkdDTQCym/JUK5/Z3HZb3/gjF+LxXsrUHjRt9i00uGuTVL+90c+BNkhJOp+aa3qTjniLsRAL",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:19:23.018150",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100908122257010688": {
+    "session_id": "rl8BAkdDTQBe+YX/CnbOuuXKPr6J/3pVy0XiDMuPG3qmjZXPF9HWYC72aU18Ka6Evptvj1dPRiM8",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:21:49.374839",
+    "last_status": 50,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100908958246514688": {
+    "session_id": "rl8BAkdDTQBvyfUhIsF6oA9ip8XY+MMpLX56Mnopu1Oef1JIqhbeorYYfrz+oZbLbmeS9RKbHUxl",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:25:12.528832",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100910071011209216": {
+    "session_id": "rl8BAkdDTQDNLrM+s+Tx6CJ3+y47BYrIRFzMdBLk4I5dX8swlqPjUtUPC5Kc6GROLiJCyCp1lINF",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:29:36.012358",
+    "last_status": 20,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": true,
+    "message_3_sent": false
+  },
+  "2099556631001378816": {
+    "session_id": "rl8BAkdDTQCidsQ99ap/rStssud20zi7ODWtU6d4jGLMO4YoavVj0oUE8XvsCNs5s5aRV6qA8d3G",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:35:10.191517",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  },
+  "2100911484621271040": {
+    "session_id": "rl8BAkdDTQCidsQ99ap/rStssud20zi7ODWtU6d4jGLMO4YoavVj0oUE8XvsCNs5s5aRV6qA8d3G",
+    "direction": "SELL",
+    "first_seen": "2026-09-18T18:35:10.206880",
+    "last_status": 50,
+    "message_1_sent": false,
+    "message_10_sent": true,
+    "message_2_sent": true,
+    "message_3_sent": true
+  },
+  "2100912380352638976": {
+    "session_id": "rl8BAkdDTQAKL1muzfIM5ghVU7HpJkyl9U+SG+beapeK+NwKTSG5EMba9Ewf4dtfdKCv56249St2",
+    "direction": "BUY",
+    "first_seen": "2026-09-18T18:38:44.456562",
+    "last_status": 10,
+    "message_1_sent": true,
+    "message_10_sent": false,
+    "message_2_sent": false,
+    "message_3_sent": false
+  }
+}
